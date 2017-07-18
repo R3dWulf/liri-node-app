@@ -1,0 +1,19 @@
+
+Artist name: Backstreet Boys
+Song Name: I Want it That Way 
+Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album Name: The Hits--Chapter One
+Artist name: Metallica
+Song Name: enter sandman
+Preview Link: https://api.spotify.com/v1/tracks/1hKdDCpiI9mqz1jVHRKG0E
+Album Name: Metallica
+Second tweet, hope this will show in node.
+tweeting for school
+Title of the movie: Deadpool
+Year the movie came out: 12 Feb 2016
+IMDB rating of the movie: 8.0
+Rotten Tomatoes Rating: 84%
+Country where the movie was produced: USA
+Language of the movie: English
+Plot of the movie: A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.
+Actors in the movie: Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer
